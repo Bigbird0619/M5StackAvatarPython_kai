@@ -1,0 +1,2 @@
+# M5StackAvatarPython_kai
+h-akanuma/M5StackAvatarPythonをベースに追加
