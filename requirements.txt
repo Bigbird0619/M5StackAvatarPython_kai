@@ -1,0 +1,11 @@
+# GUI Framework
+PySide6>=6.5.0
+
+# RSS Feed Parser
+feedparser>=6.0.0
+
+# HTTP Library (for future use)
+requests>=2.31.0
+
+# HTML Parser (for future use)
+beautifulsoup4>=4.12.0
